@@ -1,5 +1,5 @@
 {
-    "name": "Node test"
-    "version": "0.0.2",
+    "name": "NodeTest"
+    "version": "0.0.3",
     "main": "test.js"
 }
